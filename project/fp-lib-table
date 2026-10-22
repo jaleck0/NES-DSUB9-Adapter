@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "NES-Controller-Port-footprint-main") (type "KiCad") (uri "C:/Users/lucas/Downloads/NES-Controller-Port-footprint-main/NES-Controller-Port-footprint-main.pretty") (options "") (descr ""))
+)
